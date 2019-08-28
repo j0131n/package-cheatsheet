@@ -1,10 +1,41 @@
-## Plugins Cheatsheet
+# Plugins Cheatsheet
 > Long story short - a ridiculous collection of plugins and their respective links
 
-### Sublime Text
-* [GitGutter](https://github.com/jisaacks/GitGutter)
+## Sublime Text
 
-### Visual Studio Code
+* [A File Icon](https://github.com/SublimeText/AFileIcon)
+* [Angular CLI](https://github.com/4ern/angular-cli-for-sublime-text)
+* [AngularJS](https://github.com/angular-ui/AngularJS-sublime-package)
+* [AngularJS Snippets](https://packagecontrol.io/packages/AngularJS%20Snippets)
+* [AngularJS (CoffeeScript)](https://github.com/Iristyle/Sublime-AngularJS-Coffee-Completions)
+* [Better CoffeeScript](https://github.com/aponxi/sublime-better-coffeescript)
+* [CoffeeAngular Syntax](https://github.com/ukyo/CoffeeAngular.tmLanguage)
+* [Emmet](https://packagecontrol.io/packages/Emmet)
+* [Emmet Css Snippets](https://packagecontrol.io/packages/Emmet%20Css%20Snippets)
+* [Emmet Style Reflector](https://github.com/eecolella/emmet-style-reflector)
+* [Go To Definition](https://packagecontrol.io/packages/Go%20To%20Definition)
+* [GitGutter](https://github.com/jisaacks/GitGutter)
+* [Javascript Completions](https://github.com/pichillilorenzo/JavaScript-Completions)
+* [Javascript Snippets](https://github.com/jprichardson/sublime-js-snippets)
+* [Laravel 4 Artisan](https://github.com/evgeny-golubev/Laravel-4-Artisan)
+* [Laravel 4 Facades](https://github.com/stidges/Laravel-Facades-for-ST)
+* [Laravel 4 Snippets](https://github.com/samvasko/laravel4-snippets)
+* [Laravel 5 Artisan](https://github.com/dydx/Laravel-5-Artisan)
+* [Laravel 5 Snippets](https://github.com/Lykegenes/laravel-5-snippets)
+* [Laravel 5 Blade Highlighter](https://github.com/Medalink/laravel-blade)
+* [LESS](https://packagecontrol.io/packages/LESS)
+* [Sass](https://packagecontrol.io/packages/Sass)
+* [SublimeLinter-tslint](https://github.com/SublimeLinter/SublimeLinter-tslint)
+* [Synced​Side​Bar](https://github.com/TheSpyder/SyncedSideBar)
+* [TypeScript](https://packagecontrol.io/packages/TypeScript)
+* [TypeScript Syntax](https://github.com/braver/TypeScriptSyntax)
+* [TypeScriptCompletion](https://github.com/RonanDrouglazet/TypescriptCompletion)
+* [VueFormatter](https://github.com/baixuexiyang/VUEFormatter)
+* [Vuejs Snippets](https://github.com/filipelinhares/vuejs-snippets-sublime)
+* [Vuejs Snippets Airbnb](https://github.com/kavalcante/vuejs-snippets-airbnb-sublime)
+
+## Visual Studio Code
+
 * [Angular 2 TypeScript Emmet](https://github.com/jakethashi/vscode-angular2-emmet)
 * [Angular 8 Snippets - TypeScript, Html, Angular Material, ngRx, RxJS & Flex Layout](https://github.com/BeastCode/VSCode-Angular-TypeScript-Snippets.git)
 * [Angular Snippets (Version 8)](https://github.com/johnpapa/vscode-angular-snippets)
@@ -33,6 +64,6 @@
 * [Vetur](https://github.com/vuejs/vetur.git)
 * [Vue 2 Snippets](https://github.com/hollowtree/vscode-vue-snippets)
 
-### Web and Email Template Builder
-* [GrapesJS](https://github.com/artf/grapesjs)
+## Web and Email Template Builder
 
+* [GrapesJS](https://github.com/artf/grapesjs)
