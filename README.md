@@ -1,6 +1,16 @@
 # Plugins Cheatsheet
 > Long story short - a ridiculous collection of plugins and their respective links
 
+## Angular
+
+* [ng-select](https://github.com/ng-select/ng-select)
+* [ngx-codemirror](https://github.com/TypeCtrl/ngx-codemirror)
+* [ngx-toastr](https://github.com/scttcper/ngx-toastr)
+
+# Javascript
+
+* [UnderscoreJS](https://underscorejs.org/)
+
 ## Sublime Text
 
 * [A File Icon](https://github.com/SublimeText/AFileIcon)
