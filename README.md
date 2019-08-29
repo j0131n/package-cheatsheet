@@ -1,5 +1,5 @@
 # Plugins Cheatsheet
-> Long story short - a ridiculous collection of plugins and their respective links
+> TL;DR - a ridiculous collection of plugins and their respective links
 
 ## Angular
 
