@@ -1,4 +1,4 @@
-# Plugins Cheatsheet
+# Package Cheatsheet
 > Long story short - a ridiculous collection of plugins and their respective links
 
 ## Angular
