@@ -32,6 +32,10 @@
 * [Laravel-Modules](https://github.com/nWidart/laravel-modules)
 * [L5-Repository](https://github.com/andersao/l5-repository)
 
+## NodeJS
+
+* [SocketIO](https://github.com/socketio)
+
 ## ORM
 
 * [TypeORM](https://typeorm.io/#/)
