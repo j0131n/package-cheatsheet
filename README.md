@@ -12,6 +12,7 @@
 * [LESS](https://github.com/less/less.js)
 * [Sass](https://github.com/sass/sass)
 * [UnderscoreJS](https://underscorejs.org/)
+* [QuillJS](https://quilljs.com/)
 
 ## Sublime Text
 
