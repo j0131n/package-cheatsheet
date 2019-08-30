@@ -7,6 +7,10 @@
 * [ngx-codemirror](https://github.com/TypeCtrl/ngx-codemirror)
 * [ngx-toastr](https://github.com/scttcper/ngx-toastr)
 
+## Chrome Extension
+
+* [JSON Formatter](https://github.com/callumlocke/json-formatter)
+
 ## Console Emulator
 
 * [Cmder](https://github.com/cmderdev/cmder)
