@@ -10,6 +10,12 @@
 ## Console Emulator
 
 * [Cmder](https://github.com/cmderdev/cmder)
+* [ConEmu](https://github.com/Maximus5/ConEmu)
+
+## Git Client
+
+* [SmartGit](https://www.syntevo.com/smartgit/)
+* [Sourcetree](https://www.sourcetreeapp.com/)
 
 ## Javascript
 
