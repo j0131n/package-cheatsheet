@@ -1,5 +1,5 @@
 # :package: Package Cheatsheet
-> Long story short - a ridiculous collection of plugins and their respective links
+> Long story short - a ridiculous collection of package and their respective links
 
 ## Angular
 
@@ -7,12 +7,35 @@
 * [ngx-codemirror](https://github.com/TypeCtrl/ngx-codemirror)
 * [ngx-toastr](https://github.com/scttcper/ngx-toastr)
 
+## Console Emulator
+
+* [Cmder](https://github.com/cmderdev/cmder)
+
 ## Javascript
 
 * [LESS](https://github.com/less/less.js)
+* [pilpil](https://github.com/zafree/pilpil)
+* [QuillJS](https://quilljs.com/)
 * [Sass](https://github.com/sass/sass)
 * [UnderscoreJS](https://underscorejs.org/)
-* [QuillJS](https://quilljs.com/)
+
+## Laravel
+
+* [Laravel-Debugbar](https://github.com/barryvdh/laravel-debugbar)
+* [Laravel-ffmpeg](https://github.com/pascalbaljetmedia/laravel-ffmpeg)
+* [Laravel-Modules](https://github.com/nWidart/laravel-modules)
+* [L5-Repository](https://github.com/andersao/l5-repository)
+
+## ORM
+
+* [TypeORM](https://typeorm.io/#/)
+
+## PHP
+
+* [fractal](https://github.com/thephpleague/fractal)
+* [oauth2-client](https://github.com/thephpleague/oauth2-client)
+* [opengraph](https://github.com/scottmac/opengraph)
+* [Sentinel](https://cartalyst.com/manual/sentinel/2.0)
 
 ## Sublime Text
 
