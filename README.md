@@ -1,5 +1,5 @@
 # :package: Package Cheatsheet
-> Long story short - a ridiculous collection of package and their respective links
+> TLDR; A ridiculous collection of package and their respective links
 
 ## Angular
 
